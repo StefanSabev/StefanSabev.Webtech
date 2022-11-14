@@ -10,9 +10,9 @@ public class GreetingController {
     public String hello(){
         return "HelloWorld";
     }
-    /*@GetMapping(path = "/cmon")
-    public ModelAndView helloworld(){
-        return new ModelAndView("HelloWorld");
-    }*/
+    @GetMapping("/")
+    public String helloW(){
+        return "HelloWorld";
+    }
 
 }
