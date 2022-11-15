@@ -1,0 +1,19 @@
+{
+  "name": "stefansabev.webtech",
+  "version": "1.0.0",
+  "description": "npmFirst",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanSabev/StefanSabev.Webtech.git"
+  },
+  "author": "StefanSabev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StefanSabev/StefanSabev.Webtech/issues"
+  },
+  "homepage": "https://github.com/StefanSabev/StefanSabev.Webtech#readme"
+}
