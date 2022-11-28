@@ -3,7 +3,7 @@ name: CI
 on: { push }
 
 jobs:
-  build:
+  test:
     runs-on:
       ubuntu-latest
     steps:
@@ -15,4 +15,3 @@ jobs:
           java-version: 16
       - name: clean build
         run: ./gradlew clean test --info --stacktrace
-
