@@ -10,6 +10,7 @@ class WebtechApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//throw new RuntimeException("test");
 	}
 
 }
